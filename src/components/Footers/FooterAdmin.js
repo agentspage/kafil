@@ -33,7 +33,7 @@ export default function FooterAdmin() {
                     href="https://www.creative-tim.com/presentation?ref=nr-footer-admin"
                     className="text-blueGray-600 hover:text-blueGray-800 text-sm font-semibold block py-1 px-3"
                   >
-                    About Us
+                    Biz haqimizda
                   </a>
                 </li>
                 <li>
